@@ -5,7 +5,12 @@ body {
 }
 
 .font-style {
-    font-size: 55px;
+    object-position: center;
+    margin: auto;
+    font-size: 500%;
+    object-fit: contain;
+    width: 50%;
+    height: auto;
 }
 
 .contain {
@@ -13,3 +18,5 @@ body {
     width: 20%;
     height: auto;
   }
+
+  
