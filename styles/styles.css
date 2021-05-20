@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #FEF9EF;
+    font-family: sans-serif, Arial, Helvetica, ;
+}
+
+.font-style {
+    font-size: 55px;
+}
+
+.contain {
+    object-fit: contain;
+    width: 20%;
+    height: auto;
+  }
